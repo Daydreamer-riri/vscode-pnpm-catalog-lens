@@ -39,6 +39,10 @@ Show versions inline for <a href="https://pnpm.io/catalogs" target="_blank">pnpm
 
 <!-- configs -->
 
+## Related Projects
+
+- [catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) - Neovim plugin with the same features
+
 ## Sponsors
 
 <p align="center">
@@ -46,10 +50,6 @@ Show versions inline for <a href="https://pnpm.io/catalogs" target="_blank">pnpm
     <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.png'/>
   </a>
 </p>
-
-## Related Projects
-
-- [catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) - Neovim plugin with the same features
 
 ## Credits
 
