@@ -47,6 +47,10 @@ Show versions inline for <a href="https://pnpm.io/catalogs" target="_blank">pnpm
   </a>
 </p>
 
+## Related Projects
+
+- [catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) - Neovim plugin with the same features
+
 ## Credits
 
 Logo is modified from [Catppuccin Icons](https://github.com/catppuccin/vscode-icons) ([`pnpm.svg`](https://github.com/catppuccin/vscode-icons/blob/main/icons/css-variables/pnpm.svg)), licensed under [MIT](https://github.com/catppuccin/vscode-icons/blob/main/LICENSE).
